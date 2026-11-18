@@ -1,0 +1,9 @@
+{
+  "pyinstaller": "6.13.0",
+  "platform_built": "Linux x86_64",
+  "single_file_build": true,
+  "demo_startup_seconds": 5,
+  "startup_errors": false,
+  "windows_exe_built": false,
+  "windows_recipe": "desktop/build_windows.bat"
+}

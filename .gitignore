@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+firmware/build/
+firmware/sdkconfig
+firmware/sdkconfig.old
+desktop/build/
+desktop/dist/

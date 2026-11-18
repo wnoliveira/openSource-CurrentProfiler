@@ -1,0 +1,5 @@
+{
+  "bootloader.bin": "38dedde0021d499f7429f89fa557bbfb7944f6aed4a1ca33a16882d556ddfba9",
+  "partition-table.bin": "7f00b6c042a89b15b0cac534f82ed988caf29278ff5700b0c511eb1b5bb7c820",
+  "iot_current_scope.bin": "6522447745bf9bbaefca1e9fb45dbdc0ddf139809cc3110e1e48c279a0e41ba5"
+}

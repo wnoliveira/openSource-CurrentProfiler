@@ -1,0 +1,7 @@
+.venv/
+.python312/
+.validation/
+__pycache__/
+*.pyc
+build/
+dist/

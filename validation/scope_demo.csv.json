@@ -1,0 +1,35 @@
+{
+  "protocol": 1,
+  "firmware": "DEMO",
+  "state": "RUNNING",
+  "baud": 460800,
+  "address": 64,
+  "ack": [
+    64
+  ],
+  "candidates": [
+    64
+  ],
+  "pga": 3,
+  "rate_hz": 1000,
+  "period_us": 1000,
+  "avg_requested": 0,
+  "averages": 1,
+  "window_us": 532,
+  "zero_raw": 0.0,
+  "gain": 1.0,
+  "calibrated": false,
+  "session": 1,
+  "epoch_us": 21148,
+  "type": "started",
+  "utc_anchor_estimated": "2026-11-18T03:37:23.528377+00:00",
+  "software_version": "1.0.0",
+  "demo": true,
+  "shunt_ohm": 1.0,
+  "timebase_ms_div": 50.0,
+  "unit": "mA",
+  "vertical_div": 5.0,
+  "center": 10.0,
+  "trigger": "Auto",
+  "threshold": 10.0
+}

@@ -1,0 +1,10 @@
+menu "IoT Current Scope"
+    config SCOPE_SDA_GPIO
+        int "GPIO SDA"
+        default 21
+        range 0 33
+    config SCOPE_SCL_GPIO
+        int "GPIO SCL"
+        default 22
+        range 0 33
+endmenu

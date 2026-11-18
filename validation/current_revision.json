@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-18",
+  "software_version": "1.0.0",
+  "firmware_version": "1.0.0",
+  "source_state": "Current uncommitted workspace; source-file hashes are in MANIFEST_SHA256.json.",
+  "python": {
+    "core_passed": 8,
+    "desktop_passed": 15,
+    "c_comparison": "skipped: host GCC unavailable",
+    "serial_pty": "skipped: POSIX host required",
+    "pip_check": "No broken requirements found",
+    "source_self_test": {
+      "status": "ok",
+      "frozen": false,
+      "bits": 64,
+      "captured_samples": 53,
+      "exported_samples": 77,
+      "png_bytes": 50673,
+      "checks": [
+        "Qt",
+        "English/Portuguese",
+        "Qt dialog translations",
+        "serial ports",
+        "SVG",
+        "licenses",
+        "DEMO",
+        "themes",
+        "capture CSV",
+        "scope CSV",
+        "metadata JSON",
+        "PNG"
+      ]
+    },
+    "gui_qa": {
+      "capture_samples": 1005,
+      "scope_samples": 500,
+      "observed_hz": 1000.0,
+      "png_bytes": 70579,
+      "gui": "offscreen",
+      "physical_hardware_tested": false
+    }
+  },
+  "windows_executable": {
+    "path": "desktop/dist/IoTCurrentScope.exe",
+    "sha256": "c00a9913fd924acc783882c192b7eea7d5cbe2b53c45ebeb1b98d8842bf3ec14",
+    "self_test": {
+      "status": "ok",
+      "frozen": true,
+      "bits": 64,
+      "captured_samples": 52,
+      "exported_samples": 48,
+      "png_bytes": 49160,
+      "checks": [
+        "Qt",
+        "English/Portuguese",
+        "Qt dialog translations",
+        "serial ports",
+        "SVG",
+        "licenses",
+        "DEMO",
+        "themes",
+        "capture CSV",
+        "scope CSV",
+        "metadata JSON",
+        "PNG"
+      ]
+    },
+    "application_source_path": "desktop/dist/IoTCurrentScope-source.zip",
+    "application_source_sha256": "ec32c9b59687e379f13b0f01cfdf76f45b191390348b23c2e0ffe7ab2b7df89e",
+    "bundle_inventory": "validation/windows_bundle.json"
+  },
+  "firmware": {
+    "build": "passed",
+    "esp_idf": "6.1.0",
+    "compiler": "Xtensa GCC 15.2.0",
+    "application_bytes": 190896,
+    "path": "firmware/build/review-idf61/iot_current_scope.bin",
+    "sha256": "47b42acffcee5f63903666788d40e692d96cc86893edce558b61cc81555fca91",
+    "hardware_flashed": false,
+    "physical_measurements_tested": false,
+    "reference_idf_5_4_2_rebuilt": false
+  },
+  "license_review": "GPLv3 project alignment completed; matching library sources and full third-party notice review remain required for a public binary release."
+}

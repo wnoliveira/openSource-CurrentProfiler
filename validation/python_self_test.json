@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "frozen": false,
+  "bits": 64,
+  "captured_samples": 58,
+  "exported_samples": 73,
+  "png_bytes": 50522,
+  "checks": [
+    "Qt",
+    "English/Portuguese",
+    "Qt dialog translations",
+    "serial ports",
+    "SVG",
+    "licenses",
+    "DEMO",
+    "themes",
+    "capture CSV",
+    "scope CSV",
+    "metadata JSON",
+    "PNG"
+  ]
+}

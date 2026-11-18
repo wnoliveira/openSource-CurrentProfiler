@@ -1,0 +1,8 @@
+{
+  "capture_samples": 1005,
+  "scope_samples": 500,
+  "observed_hz": 1000.0,
+  "png_bytes": 70579,
+  "gui": "offscreen",
+  "physical_hardware_tested": false
+}

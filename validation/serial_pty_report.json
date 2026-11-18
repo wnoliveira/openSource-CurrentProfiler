@@ -1,0 +1,7 @@
+{
+  "received": 1083,
+  "lost": 2,
+  "bad_crc": 1,
+  "injected_missing": 1,
+  "injected_corrupt": 1
+}
